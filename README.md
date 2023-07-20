@@ -28,7 +28,7 @@
 
 
 [vsCode]: https://code.visualstudio.com/
-[github]: https://github.com/IbrahimTalha0
+[github]: https://github.com/efehanbirinci
 [python]: https://www.python.org/
 
 
