@@ -16,6 +16,7 @@
 <a href="https://instagram.com/_efehnbrnc?igshid=OGQ5ZDc2ODk2ZA=="><img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" /></a>
 <a href="https://www.linkedin.com/in/efehan-birinci-99b355261">
 <img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" /></a>
+<br><br>
 
 ### 🔧 Languages and Tools:
 
