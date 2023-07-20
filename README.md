@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate with other experienced developer 👩‍💻
 - 🤔 I’m looking for help with back-end developer
 - 🥅 2024 Goals: Developing an project to be heard in the world 🌎 and learning artificial intelligence 🤖
-- ⚡ Fun fact: I love to swim 🏊‍♀️, play football ⚽ and doing fitness 🏋️  
+- ⚡ Fun fact: I love to swim 🏊‍♀️, playing football ⚽ and doing fitness 🏋️  
 
 ### 📩 Connect with me:
 
