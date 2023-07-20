@@ -45,6 +45,8 @@
 [csharp]: https://learn.microsoft.com/en-us/dotnet/csharp/
 [vs]: https://visualstudio.microsoft.com/tr/
 [html]: https://tr.wikipedia.org/wiki/HTML5
+[js]: https://www.javascript.com/
+[boostrap]: https://getbootstrap.com/
 
 
 <br />
