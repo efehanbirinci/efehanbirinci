@@ -54,7 +54,7 @@
 
 ### 🎧 Spotify Playing:
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5jvhTc0g18kwYQNUJM5C4e?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe src="https://open.spotify.com/embed/track/5jvhTc0g18kwYQNUJM5C4e?utm_source=generator&theme=0" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 
 
