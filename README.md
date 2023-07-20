@@ -2,7 +2,7 @@
 ## ⚡I want to be the best in backend.
 ## 🕛I am currently actively learning Python and developing website-based projects with PHP HTML BOOSTRAP JAVASCRİPT.
 ## 🏋️I do sports in my spare time.
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)]([link](https://instagram.com/_efehnbrnc?igshid=OGQ5ZDc2ODk2ZA==)) 
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)]([link](https://instagram.com/_efehnbrnc?igshid=OGQ5ZDc2ODk2ZA==))
 
 
 <!--
