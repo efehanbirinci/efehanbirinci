@@ -54,8 +54,7 @@
 
 ### 🎧 Spotify Playing:
 
-<iframe src="https://open.spotify.com/embed/track/5jvhTc0g18kwYQNUJM5C4e?utm_source=generator&theme=0" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-
+[[https://spotify-github-profile.vercel.app/api/view.svg?uid=q29jd0ps33tc568vvcjr0maw1&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=q29jd0ps33tc568vvcjr0maw1&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)]]
 
 
 <!--
