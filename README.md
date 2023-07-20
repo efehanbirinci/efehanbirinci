@@ -1,7 +1,7 @@
-### 👋 Hello! I am Efehan. I graduated from the computer programming department of On Dokuz Mayıs University. 
-### ⚡ I want to be the best in backend.
-### 🕛 I am currently actively learning Python and developing website-based projects with PHP HTML BOOSTRAP JAVASCRİPT.
-### 🏋️ I do sports in my spare time.
+ 👋 Hello! I am Efehan. I graduated from the computer programming department of On Dokuz Mayıs University. 
+ ⚡ I want to be the best in backend.
+ 🕛 I am currently actively learning Python and developing website-based projects with PHP HTML BOOSTRAP JAVASCRİPT.
+ 🏋️ I do sports in my spare time.
 
 
 <!--
