@@ -1,7 +1,7 @@
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-## I'm a Graduated From Computer Programming Sector 👨‍🎓, Full Stack Developer 🚀!
+## I'm Graduated From Computer Programming Sector 👨‍🎓, Full Stack Developer 🚀!
 - 🔭 I’m currently working on a project.
 - 🌱 I’m currently learning 😂
 - 👯 I’m looking to collaborate with other experienced developer 👩‍💻
