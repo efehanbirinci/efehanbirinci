@@ -24,7 +24,7 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/python/python.png" />][python]
 [<img align="left" alt="Php" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/php/php.png" />][php]
-[<img align="left" alt="Php" width="26px" src="https://camo.githubusercontent.com/c7b1bdcdfd017b3d7654bc62e6db0f7ecbe7a9cc4ec2c82c48968ad75714aba4/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f322f32392f506f737467726573716c5f656c657068616e742e7376672f31303070782d506f737467726573716c5f656c657068616e742e7376672e706e67" />][postgresql]
+[<img align="left" alt="Php" width="26px" src="https://camo.githubusercontent.com/c7b1bdcdfd017b3d7654bc62e6db0f7ecbe7a9cc4ec2c82c48968ad75714aba4/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f322f32392f506f737467726573716c5f656c657068616e742e7376672f31303070782d506f737467726573716c5f656c657068616e742e7376672e706e67"/>][postgresql]
 
 <br />
 
@@ -33,6 +33,7 @@
 [github]: https://github.com/efehanbirinci
 [python]: https://www.python.org/
 [php]: https://www.php.net/
+[postgresql]: https://www.postgresql.org/
 
 
 <br />
